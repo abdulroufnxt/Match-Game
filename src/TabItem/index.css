@@ -1,0 +1,19 @@
+.color {
+  background-color: transparent;
+  color: yellow;
+
+  border-color: yellow;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.normal {
+  background-color: transparent;
+  color: white;
+  border: none;
+  margin-right: 20px;
+  cursor: pointer;
+}
